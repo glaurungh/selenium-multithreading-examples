@@ -12,7 +12,7 @@ urls = [
         'http://www.facebook.com',
         'http://www.cnn.com',
         'http://lenta.ru',
-        'http://www.stepic.ru',
+        'http://www.stepic.org',
         'http://www.python.org',
         ]
 

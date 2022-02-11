@@ -25,7 +25,6 @@ def timer(f):
         return result
     return wrapper
 
-
 @timer
 def open_url_worker(url):
     print(f"Openning url: {url}")
